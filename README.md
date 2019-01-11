@@ -13,7 +13,7 @@
 
 ## Artifical Neural Network with Backpropogation
 
-In this [file](ANN_Implementation_w_Backpropagation.py), I construct a neural network from scratch with backpropogation.
+In this [file](ANN_implementation_w_backpropagation.py) and this [file](neural_network.py), I construct a neural network from scratch with backpropogation.
 
 ## Baby Name Time Series
 
