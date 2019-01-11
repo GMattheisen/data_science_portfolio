@@ -17,7 +17,7 @@ In this [file](ANN_implementation_w_backpropagation.py) and this [file](neural_n
 
 ## Baby Name Time Series
 
-In this [file](Baby_name_time_series.ipynb), I look at the time series data of baby name popularity. Data looks at baby name popularity over time divided by gender and the number of distinct names over time as categorized by gender. I then use linear regression and polynomial regression to predict the popularity of specific names over time.
+In this [file](Baby_name_time_series.py), I look at the time series data of baby name popularity. Data looks at baby name popularity over time divided by gender and the number of distinct names over time as categorized by gender. I then use linear regression and polynomial regression to predict the popularity of specific names over time.
 
 ## Convoluted Neural Network for Image Recognition
 
