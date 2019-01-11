@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[225]:
-
-
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -36,34 +31,19 @@ df['year'] = df['file_name'].apply(get_year) # create column with the years extr
 grouped_df=df.groupby(['name','year']).sum() #group by name and year
 
 
-# In[227]:
-
-
 def plot_time_series(name): # plot time series data for specific name across all years
     grouped_df.loc[name].plot.line(x=None, y='count')
     plt.title('Name ' + name + ' Over Time')
     plt.ylabel('count')
     plt.show()
 
-
-# In[228]:
-
-
 plot_time_series(name='Glynis')
-
-
-# In[229]:
-
 
 girls_df = df[df.gender == 'F'] # df of just girls
 girls_df.reset_index(inplace=True)
 
 boys_df = df[df.gender == 'M'] # df just boys
 boys_df.reset_index(inplace=True)
-
-
-# In[230]:
-
 
 def get_unique(df): # gets number of unique names in df per year
     unique = [] #create empty list for unique boy names
@@ -93,10 +73,6 @@ plt.ylabel('number of distinct names')
 plt.xlabel('year')
 plt.show()
 
-
-# In[221]:
-
-
 def plot_name(df, name):
     name_df = df[df.name == name] #get just the data for a specific name
     name_df.sort_values(by='year', inplace=True) #sort by year
@@ -122,15 +98,7 @@ def plot_name(df, name):
     plt.show()
     return name_df
 
-
-# In[222]:
-
-
 Glynis_df = plot_name(df,name = 'Glynis')
-
-
-# In[223]:
-
 
 def plot_norm_name(name_df, name, degree_poly):
     
@@ -171,10 +139,6 @@ def plot_norm_name(name_df, name, degree_poly):
     plt.legend()
     plt.ylim(-.00001,0.0001)
     plt.show()
-
-
-# In[224]:
-
 
 plot_norm_name(Glynis_df, name = 'Glynis', degree_poly = 5)
 
