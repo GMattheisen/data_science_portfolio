@@ -1,3 +1,5 @@
+# Data Science Portfolio
+
 * [Artifical Neural Network with Backpropogation](#artifical-neural-network-with-backpropogation)<br>
 * [Baby Name Time Series](#baby-name-time-series)<br>
 * [Convoluted Neural Network for Image Recognition](#convoluted-neural-network-for-image-recognition)<br>
@@ -9,40 +11,40 @@
 * [Predicting Baby Name Popularity Over Time](#predicting-baby-name-popularity-over-time)
 * [Predicting Survival on the Titanic](#predicting-survival-on-the-titanic)
 
-# Artifical Neural Network with Backpropogation
+## Artifical Neural Network with Backpropogation
 
 In this [file](ANN_Implementation_w_Backpropagation.py), I construct a neural network from scratch with backpropogation.
 
-# Baby Name Time Series
+## Baby Name Time Series
 
 In this [file](Baby_name_time_series.ipynb), I look at the time series data of baby name popularity. Data looks at baby name popularity over time divided by gender and the number of distinct names over time as categorized by gender. I then use linear regression and polynomial regression to predict the popularity of specific names over time.
 
-# Convoluted Neural Network for Image Recognition
+## Convoluted Neural Network for Image Recognition
 
 In this file, I build a neural network to classify elements within images.
 
-# Movie Recommender Using Cosine Similarity
+## Movie Recommender Using Cosine Similarity
 
 In this file, I build a movie recommender that utilizes cosine similarity.
 
-# Predicting Cryptocurrency Values
+## Predicting Cryptocurrency Values
 
 In this file, I extract cryptocurrency values using the Coingecko API and look at time series data. I then predict future values using a number of machine learning methods, including linear regression, polynomial regression with Ridge and Lasso regularization, and Prophet.
 
-# Neural Network for Image Classification with MNIST Data
+## Neural Network for Image Classification with MNIST Data
 
 In this file, I build a neural network to classify the MNIST data set of handwritten figures.
 
-# Movie Recommender Using Non-Matrix Factorization
+## Movie Recommender Using Non-Matrix Factorization
 
 In this file, I build a movie recommender that utilizes non-matrix factorization.
 
-# Pillow Tutorial
+## Pillow Tutorial
 
 In this file, I give a tutorial for the uses of the Python Library Pillow and build a GIF.
 
-# Predicting Baby Name Popularity Over Time
+## Predicting Baby Name Popularity Over Time
 
-# Predicting Survival on the Titanic
+## Predicting Survival on the Titanic
 
 In this file, I use information given for the passengers of the Titanic to analyze the best predictors of survival. This submission received of score of 77.99% on Kaggle.
