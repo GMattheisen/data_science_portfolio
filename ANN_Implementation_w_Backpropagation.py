@@ -1,11 +1,4 @@
 
-# coding: utf-8
-
-# # Neural Network from Scratch
-
-# In[ ]:
-
-
 import numpy as np
 from neural_network import sigmoid, feed_forward, loss
 from neural_network import X, get_weights
@@ -46,11 +39,6 @@ assert np.all(out2.round(2) == np.array([[0.82]]))
 
 
 # # Backpropagation Algorithm
-
-# In[ ]:
-
-
-
 from sklearn.datasets import make_moons
 import seaborn as sns
 from matplotlib import pyplot as plt
