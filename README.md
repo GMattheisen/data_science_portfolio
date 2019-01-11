@@ -11,14 +11,18 @@
 
 # Artifical Neural Network with Backpropogation
 
-In this file, I construct a neural network from scratch with backpropogation.
+In this [file](ANN_Implementation_w_Backpropagation.py), I construct a neural network from scratch with backpropogation.
 
 # Baby Name Time Series
 
 In this file, I look at the time series data of baby name popularity.
 
 # Convoluted Neural Network for Image Recognition
+
+
 # Movie Recommender Using Cosine Similarity
+
+
 # Predicting Cryptocurrency Values
 Predicting Crypto values using Prophet and a number of DS methods
 
