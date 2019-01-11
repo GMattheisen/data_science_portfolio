@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
 from sklearn.datasets import make_moons
 import seaborn as sns
 from matplotlib import pyplot as plt
