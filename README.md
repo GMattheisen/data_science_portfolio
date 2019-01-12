@@ -19,6 +19,8 @@ In this [file](ANN_implementation_w_backpropagation.py) and this [file](neural_n
 
 In this [file](Baby_name_time_series.py), I look at the time series data of baby name popularity. Data looks at baby name popularity over time divided by gender and the number of distinct names over time as categorized by gender. I then use linear regression and polynomial regression to predict the popularity of specific names over time.
 
+This project uses baby name data supplied by the U.S. Social Security Administration that can be found [here](https://www.ssa.gov/oact/babynames/limits.html).
+
 ## Convoluted Neural Network for Image Recognition
 
 In this [file](Convoluted_NN_Image_Recognition.py), I build a neural network to classify elements within images.
