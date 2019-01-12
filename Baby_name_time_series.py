@@ -1,4 +1,7 @@
 
+'''This project uses baby name data supplied by the U.S. Social Security Administration 
+that can be found at https://www.ssa.gov/oact/babynames/limits.html.'''
+
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
