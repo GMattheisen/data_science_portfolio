@@ -29,7 +29,7 @@ In this [file](Cosine_Similarites_PCA.py), I build a movie recommender that util
 
 ## Predicting Cryptocurrency Values
 
-In this [file](Cryptocurrency_Predictions_Prophet.ipynb), I extract cryptocurrency values using the Coingecko API and look at time series data. I then predict future values using a number of machine learning methods, including linear regression, polynomial regression with Ridge and Lasso regularization, and Prophet.
+In this [file](Cryptocurrency_predictions_prophet.ipynb), I extract cryptocurrency values using the Coingecko API and look at time series data. I then predict future values using a number of machine learning methods, including linear regression, polynomial regression with Ridge and Lasso regularization, and Prophet.
 
 ## Neural Network for Image Classification with MNIST Data
 
