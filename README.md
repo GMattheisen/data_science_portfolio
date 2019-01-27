@@ -45,8 +45,6 @@ In this [file](Movie_Recommender_Using_NMF.py), I build a movie recommender that
 
 In this [file](Pillow_Tutorial.ipynb), I give a tutorial for the uses of the Python Library Pillow and build a GIF.
 
-## Predicting Baby Name Popularity Over Time
-
 ## Predicting Survival on the Titanic
 
 In this [file](Predicting_Survival_Titanic.ipynb), I use information given for the passengers of the Titanic to analyze the best predictors of survival. This submission received of score of 77.99% on Kaggle.
