@@ -10,6 +10,7 @@
 * [Pillow Tutorial](#pillow-tutorial)
 * [Predicting Baby Name Popularity Over Time](#predicting-baby-name-popularity-over-time)
 * [Predicting Survival on the Titanic](#predicting-survival-on-the-titanic)
+* [Lyrics in the Style of](#lyrics-in-the-style-of)
 
 ## Artifical Neural Network with Backpropogation
 
@@ -48,3 +49,8 @@ In this [file](Pillow_Tutorial.ipynb), I give a tutorial for the uses of the Pyt
 ## Predicting Survival on the Titanic
 
 In this [file](Predicting_Survival_Titanic.ipynb), I use information given for the passengers of the Titanic to analyze the best predictors of survival. This submission received of score of 77.99% on Kaggle.
+
+## Lyrics in the Style of
+
+In this [file](Predicting_Survival_Titanic.ipynb), I import artist lyrics from lyrics.com then vectorizer them and use bag of words to determine lexicons and styles of specific musical artists. Lyrics can them be inputed into the program and a 'most probably artist' returned based on this assessment. Scattertext is used to display results.
+
