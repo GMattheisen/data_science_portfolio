@@ -52,5 +52,5 @@ In this [file](Predicting_Survival_Titanic.ipynb), I use information given for t
 
 ## Lyrics in the Style of
 
-In this [file](Predicting_Survival_Titanic.ipynb), I import artist lyrics from lyrics.com then vectorizer them and use bag of words to determine lexicons and styles of specific musical artists. Lyrics can them be inputed into the program and a 'most probably artist' returned based on this assessment. Scattertext is used to display results.
+In this [file](Lyrics.ipynb), I import artist lyrics from lyrics.com then vectorizer them and use bag of words to determine lexicons and styles of specific musical artists. Lyrics can them be inputed into the program and a 'most probably artist' returned based on this assessment. Scattertext is used to display results.
 
