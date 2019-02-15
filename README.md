@@ -28,7 +28,7 @@ In this [file](Convoluted_NN_Image_Recognition.py), I build a neural network to 
 
 ## Movie Recommender Using Cosine Similarity
 
-In this [file](Movie_Recommender_Using_Cosine_Similarity.ipynb), I build a movie recommender that utilizes cosine similarity.
+In this [file](Movie_Recommender_Using_Cosine_Similarity.ipynb), I build a movie recommender that utilizes cosine similarity. Cosine similarity gives a measure of similarity between users based on ratings they have provided for other films.
 
 ## Predicting Cryptocurrency Values
 
